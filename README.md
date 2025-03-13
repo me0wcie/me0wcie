@@ -1,5 +1,4 @@
-- working on a semi-open source cat clicker game
-- prns: she/them
+- i know you.
 
 <!---
 me0wcie/me0wcie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
